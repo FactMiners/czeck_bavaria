@@ -51,3 +51,5 @@ Free State of Bavaria and the Czech Republic.
 <img src="./czeck_bavaria_logo.png" height="74" width="160">
 </td></tr><table>
 
+NOTE: The FactMiners fork is our means of becoming familiar w/ the code and get it running
+on our Windows/Anaconda development box. --Jim Salmons-- 10/20/2019, Bromfield, CO USA
